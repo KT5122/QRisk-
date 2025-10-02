@@ -1,0 +1,32 @@
+[
+  {
+    "qr_data": "https://docs.google.com/forms/d/e/1FAIpQLSdjcc0tc04aSB5OQ_BA-F9ffjPtXlh85MonMv29f9Ff3cYKWQ/viewform?usp=dialog",
+    "safe": true,
+    "details": {}
+  },
+  {
+    "qr_data": "https://login.b4nk-of-amrica.com",
+    "safe": true,
+    "details": {}
+  },
+  {
+    "qr_data": "http://login.b4nk-of-amrica.com",
+    "safe": true,
+    "details": {}
+  },
+  {
+    "qr_data": "https://docs.google.com/forms/d/e/1FAIpQLSdjcc0tc04aSB5OQ_BA-F9ffjPtXlh85MonMv29f9Ff3cYKWQ/viewform?usp=dialog",
+    "safe": true,
+    "details": {}
+  },
+  {
+    "qr_data": "https://example.com",
+    "safe": true,
+    "details": {}
+  },
+  {
+    "qr_data": "https://example.com",
+    "safe": true,
+    "details": {}
+  }
+]
